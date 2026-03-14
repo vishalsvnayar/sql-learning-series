@@ -1,4 +1,3 @@
-# sql-learning-series
 # SQL for Data Analysts – 60 Day Learning Series
 
 Welcome to my **60-Day SQL Learning Series** repository.
